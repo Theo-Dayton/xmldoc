@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="main.css"?>
+<SongList>
+    <BandName>Theo's Set List</BandName>
+    <Record>
+        <Artist>Las Ligas Menores, </Artist><SongTitle>Europa, </SongTitle><Genre>Argentine Rock, </Genre><Year>2014</Year>
+    </Record>
+    <Record>
+        <Artist>Las Ligas Menores, </Artist><SongTitle>El Baile de Elvis, </SongTitle><Genre>Argentine Rock, </Genre><Year>2014</Year>
+    </Record>
+    <Record>
+        <Artist>Las Ligas Menores, </Artist><SongTitle>Renault Fuego, </SongTitle><Genre>Argentine Rock, </Genre><Year>2014</Year>
+    </Record>
+    <Record>
+        <Artist>Imagine Dragons, </Artist><SongTitle>On Top Of The World, </SongTitle><Genre>Pop Rock, </Genre><Year>2012</Year>
+    </Record>
+    <Record>
+        <Artist>Taylor Swift, </Artist><SongTitle>Cornelia Street, </SongTitle><Genre>Electropop, </Genre><Year>2019</Year>
+    </Record>
+    <Record>
+        <Artist>Taylor Swift, </Artist><SongTitle>Out of the Woods, </SongTitle><Genre>Synthpop, </Genre><Year>2014</Year>
+    </Record>
+    <Record>
+        <Artist>Taylor Swift, </Artist><SongTitle>Love Story, </SongTitle><Genre>Country Pop, </Genre><Year>2008</Year>
+    </Record>
+    <Record>
+        <Artist>Kansas, </Artist><SongTitle>Dust in the Wind, </SongTitle><Genre>Soft Rock, </Genre><Year>1978</Year>
+    </Record>
+    <Record>
+        <Artist>Foster The People, </Artist><SongTitle>SHC, </SongTitle><Genre>Indie pop, </Genre><Year>2017</Year>
+    </Record>
+    <Record>
+        <Artist>Kraftklub, </Artist><SongTitle>Eure Madchen, </SongTitle><Genre>Indie Rock, </Genre><Year>2012</Year>
+    </Record>
+</SongList>
